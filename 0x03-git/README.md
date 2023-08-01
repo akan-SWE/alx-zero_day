@@ -1,1 +1,1 @@
-a directory for my projects
+A directory that contains all my projects.
